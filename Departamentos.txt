@@ -1,0 +1,1 @@
+1,Departamento de Nomina,Controla todos los gastos de la empresa,2,Departamento de Computos,Este departamento se encarga de toda la administracion de software de la empresa,3,DGT,FCFCGC,
